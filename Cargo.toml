@@ -189,6 +189,7 @@ bin = [
   { name = "as_ref_mut_sol", path = "solutions/23_conversions/as_ref_mut.rs" },
 ]
 
+
 [package]
 name = "exercises"
 edition = "2021"
